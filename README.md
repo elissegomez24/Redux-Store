@@ -71,6 +71,10 @@ Before you begin, ensure you have the following installed:
 5. Open a pull request.
 
 ## Screenshots
+![Redux-Store/images/Redux Store1.png](<images/Redux Store1.png>)
+![Redux-Store/images/Redux Store2.png](<images/Redux Store2.png>)
+![Redux-Store/images/Redux Store3.png](<images/Redux Store3.png>)
+![Redux-Store/images/Redux Store4.png](<images/Redux Store4.png>)
 
 ## Deployment on Render
 
@@ -88,5 +92,4 @@ This project is licensed under the [MIT LICENSE](LICENSE).
 
 > [!NOTE]  
 > Recourses used for creating code. Referred back to class work for file format such as reviewing class recording. Worked with peers on assignment and compared challenge template to assist with creating readme file.
-
 
