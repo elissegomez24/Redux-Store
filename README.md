@@ -86,6 +86,8 @@ To deploy the application using Render
 
 ## Deployed Application
 
+https://redux-store-g8ui.onrender.com/ 
+
 ## License
 
 This project is licensed under the [MIT LICENSE](LICENSE).
