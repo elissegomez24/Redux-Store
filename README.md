@@ -1,4 +1,4 @@
-# E-Commerce Platform
+# Redux Store- E-Commerce Platform
 
 ## Description
 
