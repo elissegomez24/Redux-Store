@@ -26,7 +26,6 @@ This project is an e-commerce platform built using React for the frontend, Vite 
 - **Routing**: React Router DOM
 - **Styling**: CSS / Styled Components
 - **API**: Mock API for product details and categories
-- **Environment Variables**: Managed with dotenv
 
 ## Installation
 
@@ -40,9 +39,9 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository
 2. Navigate into the project directory: cd ecommerce-platform
 3. Install dependencies: npm install
-4. Start the development server: npm run dev
+4. Run seeds for application: npm run seed
 5. Build for production: npm run build
-6. Preview the production build: npm run preview
+6. Start the development server: npm run dev
 
 ## Usage
 
@@ -58,11 +57,10 @@ Before you begin, ensure you have the following installed:
 - **Checkout Process**: A smooth and intuitive checkout process to allow users to complete their purchases.
 
 ## Scripts
-
-- `npm run dev`: Starts the Vite development server
+- `npm install`: Install dependencies 
+- `npm run seed`: Run seeds for application
 - `npm run build`: Bundles the app for production
-- `npm run preview`: Serves the production build locally for previewing
-- `npm run lint`: Runs linting checks
+- `npm run dev`: Starts the Vite development server
 
 ## Contributing
 
