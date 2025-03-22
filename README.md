@@ -86,7 +86,7 @@ To deploy the application using Render
 
 ## Deployed Application
 
-https://redux-store-g8ui.onrender.com/ 
+https://redux-store-z27u.onrender.com 
 
 ## License
 
